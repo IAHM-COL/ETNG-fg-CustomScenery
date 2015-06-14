@@ -8,5 +8,4 @@ Objects located in the Objects directory may had been obtained via terrasync and
 
 
 :copyright: 2015 - Israel Hernandez (IAHM-COL)
-:copyright: 2015 - John (JMaverick16)
-:copyright: 2015 - FGUK
+:copyright: 2015 - J Maverick 16
